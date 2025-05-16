@@ -1,7 +1,7 @@
 # 🛒 NextCommerce | Modern Multivendor E-commerce Platform
 
 <div align="center">
-  <img src="./public/assets/icons/logo.png" alt="NextCommerce Logo" width="250" />
+  <img src="./public/assets/icons/cart.avif" alt="NextCommerce Icon" width="150" />
   <br />
   <p>
     <strong>Comprehensive E-commerce Solution with Advanced Features</strong>
